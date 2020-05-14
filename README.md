@@ -19,7 +19,7 @@ The Bureau of Transportation Statistics regularly makes available data on the nu
 * You will only be able to submit through the link one time
 * Do NOT attach a file - we will not admit solutions which are attached files
 * Do NOT send your solution over an email - We are unable to accept coding challenges that way
-* For a limited time we have made available a <a href="http://ec2-3-225-56-40.compute-1.amazonaws.com/test-my-repo-link">website</a> that will allow you to simulate the environment in which we will test your code. 
+* For a limited time we have made available a <a href="http://insight-cc-submission.com/test-my-repo-link">website</a> that will allow you to simulate the environment in which we will test your code. 
 
 ### Creating private repositories
 To avoid plagiarism and any wrongdoing, we request you to submit a private repository of your code. Both GitHub and Bitbucket offer free unlimited private repositories at no extra cost.
@@ -167,7 +167,7 @@ One test has been provided as a way to check your formatting and simulate how we
 
 Your submission must pass at least the provided test in order to pass the coding challenge.
 
-The <a href="http://ec2-3-225-56-40.compute-1.amazonaws.com/test-my-repo-link">website</a> that we mentioned earlier could be used to test your code has been primarily tested on Python code but could be used for Java and C++ repos. Keep in mind that if you need to compile your code (e.g., javac, make), that compilation needs to happen in the `run.sh` file of your code repository. For Python programmers, you are able to use Python2 or Python3 but if you use the later, specify `python3`, which defaults to Python 3.5.2, in your `run.sh` script or `python3.7` if you use that version.
+The <a href="http://insight-cc-submission.com/test-my-repo-link">website</a> that we mentioned earlier could be used to test your code has been primarily tested on Python code but could be used for Java and C++ repos. Keep in mind that if you need to compile your code (e.g., javac, make), that compilation needs to happen in the `run.sh` file of your code repository. For Python programmers, you are able to use Python2 or Python3 but if you use the later, specify `python3`, which defaults to Python 3.5.2, in your `run.sh` script or `python3.7` if you use that version.
 
 # Questions?
 Email us at cc@insightdataengineering.com
